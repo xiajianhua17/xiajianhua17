@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xiajianhua17
+- 👀 I’m interested in Computer Science. I’m currently learning Rust.
+- 🌱 Passionate about systems programming and ready for new challenges.
